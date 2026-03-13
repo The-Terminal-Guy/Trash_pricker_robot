@@ -19,9 +19,9 @@ A WiFi-controlled robot with a 5-DOF robotic arm, live camera stream, and a web-
 
 ```
 Trash_pricker_robot/
-├── main_esp32/
+├── Code/
 │   └── main_esp32.ino       # Main controller: motors, servos, web server, UART
-├── esp32_cam/
+├── Code/
 │   └── esp32_cam.ino        # ESP32-CAM: camera stream, IP reporting over UART
 └── README.md
 ```
